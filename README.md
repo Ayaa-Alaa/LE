@@ -25,13 +25,6 @@ edit data :
 nano data.txt
 ```
 
-templatenya kek gini:
-LayerEdge/
-├── main.js          # Tampilan utama file
-├── data.txt         # Ini lokasi PrivateKeys nya
-└── package.json     # Keperluan Script
-
-
 jalankan :
 ```bash
 node main.js
