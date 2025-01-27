@@ -12,7 +12,7 @@ git clone https://github.com/Ayaa-Alaa/LE.git
 
 masuk ke folder :
 ```bash
-cd layer-edge
+cd LE
 ```
 
 install kebutuhan :
